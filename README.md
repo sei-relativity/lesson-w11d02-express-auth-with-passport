@@ -142,7 +142,7 @@ When the user wants to access a route that requires authorization, the client wi
 
 ## We Do: Implementing Authentication with JWT
 
-Let's fork and clone the [blogy](https://github.com/sei-eternity/blogy) app. As we're going to be adding authentication on top of it.
+Let's fork and clone the [blogy](https://github.com/sei-relativity/blogy) app. As we're going to be adding authentication on top of it.
 
 ### Additional Resources on using JWTs in MERN apps
 
